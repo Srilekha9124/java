@@ -12,6 +12,7 @@ public class Practise
 		System.out.println(p3.b);
 		//System.out.println(this.b);
 		System.out.println(a);
+		System.out.println(a);
 		
 	}
 	public void non_static()
