@@ -8,6 +8,9 @@ public class Demo {
 	public static void static_method()
 	{
 		System.out.println("this is a static method of demo");
+		System.out.println("this is a static method of demo1");
+
+		
 	}
 	
 	public void non_static_method()
