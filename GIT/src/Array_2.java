@@ -14,11 +14,7 @@ public class Array_2 {
 			System.out.println(Array.b[0]);//default static array
 			System.out.println(Array.b[1]);
 		
-			//System.out.println(Array.c[0]);//private
-	        //System.out.println(Array.c[1]);
-	        //System.out.println(Array.c[2]);
-	        //System.out.println(Array.c[3]);
-
+			System.out.println("Hi");
 	}
 
 }

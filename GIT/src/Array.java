@@ -6,7 +6,7 @@ public class Array {
 	     static float b[] = {10.10f,20.02f,20.30f,30.40f};
 private static float c[] = {'a','b','c','d'};
 	
-	
+	//This is commit
 
 	public static void main(String[] args) 
 	{
